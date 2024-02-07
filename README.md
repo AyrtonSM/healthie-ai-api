@@ -11,6 +11,7 @@ Build the image:
 `$ docker build -t healthie-server-api:latest`
 
 Run it by using: 
+
 `$ docker run -p 8080:8080 healthie-server-api:latest`
 
 Healthie API should be running now :) 
